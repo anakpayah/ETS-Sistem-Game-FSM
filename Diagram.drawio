@@ -1,0 +1,144 @@
+<mxfile host="app.diagrams.net" modified="2023-03-31T12:29:13.654Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="z5XmfSrtloSKlMGm6VkC" version="21.1.2" type="github">
+  <diagram name="Page-1" id="a4VfMDKpxINX2sIHpQXR">
+    <mxGraphModel dx="1377" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8ibMlae_CTMaOVklcElo-1" value="Orientasi/Prolog" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-2" value="DAY 1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-3" value="DAY 2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-4" value="DAY 3" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8ibMlae_CTMaOVklcElo-1" target="8ibMlae_CTMaOVklcElo-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8ibMlae_CTMaOVklcElo-2" target="8ibMlae_CTMaOVklcElo-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="280" as="sourcePoint" />
+            <mxPoint x="270" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8ibMlae_CTMaOVklcElo-3" target="8ibMlae_CTMaOVklcElo-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="490" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-8" value="final day" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8ibMlae_CTMaOVklcElo-4" target="8ibMlae_CTMaOVklcElo-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="280" as="sourcePoint" />
+            <mxPoint x="700" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="8ibMlae_CTMaOVklcElo-2" target="8ibMlae_CTMaOVklcElo-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="320" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-11" value="Quiz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-12" value="Quiz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-13" value="Quiz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="8ibMlae_CTMaOVklcElo-3" target="8ibMlae_CTMaOVklcElo-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="320" as="sourcePoint" />
+            <mxPoint x="330" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="8ibMlae_CTMaOVklcElo-4" target="8ibMlae_CTMaOVklcElo-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="320" as="sourcePoint" />
+            <mxPoint x="540" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-17" value="AJK&lt;br&gt;GIGA&lt;br&gt;Alrpo&lt;br&gt;NCC&lt;br&gt;MCI&lt;br&gt;MI&lt;br&gt;KCV&lt;br&gt;RPL" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="560" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="8ibMlae_CTMaOVklcElo-17" target="8ibMlae_CTMaOVklcElo-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="570" as="sourcePoint" />
+            <mxPoint x="690" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="970" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-21" value="Kumpulan Ending(lebih dari 1 ED)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-22" value="Bad End" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-23" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8ibMlae_CTMaOVklcElo-8" target="8ibMlae_CTMaOVklcElo-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="270" as="sourcePoint" />
+            <mxPoint x="1100" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1100" y="270" />
+              <mxPoint x="1050" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-24" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8ibMlae_CTMaOVklcElo-8" target="8ibMlae_CTMaOVklcElo-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="280" as="sourcePoint" />
+            <mxPoint x="1120" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1090" y="290" />
+              <mxPoint x="1050" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-25" value="Adanya Quiz berkaitan dengan RMK-RMK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="540" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-27" value="GIGA&lt;br&gt;NCC&lt;br&gt;MCI" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="430" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-28" value="RPL&lt;br&gt;MI&lt;br&gt;AJK" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="440" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-29" value="Alpro&lt;br&gt;KCV" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="430" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-30" value="Nanti ada nilai yang masuk ke database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="700" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-32" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-33" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="520" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-34" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="870" y="670" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-35" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="925" y="130" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ibMlae_CTMaOVklcElo-38" value="Penentuan ED berdasarkan nilai dari database, lulus atau enggak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
