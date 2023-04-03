@@ -1,11 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T14:23:45.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="9oIqaKZzAIFW2pZnM8Uj" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T13:21:08.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="NIiIxayEYAO7m9eeUBP7" version="21.1.4" type="github">
   <diagram name="Page-1" id="a4VfMDKpxINX2sIHpQXR">
-    <mxGraphModel dx="1377" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="500" dy="245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="psrYAjOjDE8Cae2MODrQ-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="250" y="180" width="80" height="80" as="geometry" />
+        <mxCell id="wOhKXllFgkgMSMnQ2QyS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wOhKXllFgkgMSMnQ2QyS-1" target="wOhKXllFgkgMSMnQ2QyS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOhKXllFgkgMSMnQ2QyS-4" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wOhKXllFgkgMSMnQ2QyS-3">
+          <mxGeometry x="0.23" y="1" relative="1" as="geometry">
+            <mxPoint x="-14" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOhKXllFgkgMSMnQ2QyS-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wOhKXllFgkgMSMnQ2QyS-1" target="wOhKXllFgkgMSMnQ2QyS-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOhKXllFgkgMSMnQ2QyS-7" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wOhKXllFgkgMSMnQ2QyS-6">
+          <mxGeometry x="-0.2644" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOhKXllFgkgMSMnQ2QyS-1" value="GameStart" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wOhKXllFgkgMSMnQ2QyS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wOhKXllFgkgMSMnQ2QyS-2" target="wOhKXllFgkgMSMnQ2QyS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOhKXllFgkgMSMnQ2QyS-11" value="Ke Parkiran" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wOhKXllFgkgMSMnQ2QyS-10">
+          <mxGeometry x="-0.1079" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOhKXllFgkgMSMnQ2QyS-2" value="SudahSiap" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wOhKXllFgkgMSMnQ2QyS-8" value="BelumSiap" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="150" y="410" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wOhKXllFgkgMSMnQ2QyS-9" value="DiParkiran" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
