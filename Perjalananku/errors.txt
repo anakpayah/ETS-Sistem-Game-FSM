@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 36: expected statement.
+    music rpg = "3RPGMusic.wav"
+              ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Wed Apr  5 05:11:11 2023
